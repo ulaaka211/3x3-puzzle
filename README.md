@@ -1,2 +1,2 @@
-# 3x3-puzzle
-# 3x3-puzzle
+# drag and drop list
+# drag and drop list
